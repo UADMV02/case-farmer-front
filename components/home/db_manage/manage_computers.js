@@ -8,7 +8,7 @@ export default function ComputersManage(){
             </div>
             <div>
                 <p className="mb-1">Actions</p>
-                <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md mb-2 hover:bg-[#278be8]">Apply</button>
+                <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]">Apply</button>
             </div>
         </div>
     )
