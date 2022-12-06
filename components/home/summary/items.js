@@ -5,7 +5,7 @@ export default function Items({items}){
             {items.map((item) => {
                 return (
                     <div key={item.name} className="flex justify-between py-1 font-medium">
-                        <p className="text-[#6096FF]">{item.name}</p>
+                        <a className="text-[#6096FF]" href={item.link} target="_blank">{item.name}</a>
                         <div className="flex justify-between w-[30%]">
                             <p>{item.percent}</p>
                             <p>{item.count}</p>

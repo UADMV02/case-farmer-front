@@ -14,212 +14,170 @@ export default function Summary(){
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
-            },
-            {
-                name: "Danger Case",
-                percent: 25,
-                count: 12334
-            },
-            {
-                name: "Some Case",
-                percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
             {
                 name: "Danger Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
             },
             {
-                name: "Some Case",
+                name: "Clutch Case",
                 percent: 25,
-                count: 12334
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
+            },
+            {
+                name: "Danger Case",
+                percent: 25,
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
+            },
+            {
+                name: "Clutch Case",
+                percent: 25,
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
+            },
+            {
+                name: "Danger Case",
+                percent: 25,
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
+            },
+            {
+                name: "Clutch Case",
+                percent: 25,
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
+            },
+            {
+                name: "Danger Case",
+                percent: 25,
+                count: 12334,
+                link: "https://steamcommunity.com/market/listings/730/Dreams%20%26%20Nightmares%20Case"
+            },
+            {
+                name: "Clutch Case",
+                percent: 25,
+                count: 12334,
+                href: "https://steamcommunity.com/market/listings/730/Clutch%20Case"
             },
         ]
     }
