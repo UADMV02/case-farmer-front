@@ -13,7 +13,7 @@ const Modal = ({isVisible, onClose}) => {
             <div className="w-[620px] bg-[#F2F2F2] h-[480px] border-[#EBEBEB] border p-3 px-5 rounded">
             <Tab.Group>
                 <div className="flex flex-col w-full relative">
-                    <div className="place-self-center text-sm font-med">
+                    <div className="place-self-center text-sm font-medium">
                         <Tab.List>
                             <Tab className="ui-selected:opacity-100 ui-not-selected:opacity-30 mr-[10px]">Accounts</Tab>
                             <Tab className="ui-selected:opacity-100 ui-not-selected:opacity-30 mr-[10px]">Computers</Tab>

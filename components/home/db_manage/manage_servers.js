@@ -1,6 +1,6 @@
 export default function ServersManage(){
     return(
-        <div className="h-full flex flex-col justify-between mt-2 text-[13px] font-light">
+        <div className="h-full flex flex-col justify-between mt-2 text-[13px] font-medium">
             <div>
                 <div className="flex items-center mb-2">
                     <input type="checkbox" className="mx-2 w-[18px] h-[18px] outline-[#FFFFFF]"/>
@@ -8,7 +8,7 @@ export default function ServersManage(){
                 </div>
             </div>
             <div>
-                <p className="font-normal mb-1">Actions</p>
+                <p className="mb-1">Actions</p>
                 <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Add Server</button>
                 <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Remove Selected</button>
                 <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md mb-2">Apply</button>

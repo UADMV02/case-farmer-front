@@ -3,7 +3,7 @@ export default function SteamDB({onShow}) {
         <div className="w-full h-1/2 bg-white p-7 bg-opacity-60 rounded-md mb-8 lg:mb-5 flex flex-col justify-between border-[#EBEBEB] border">
             <div>
                 <h2 className="text-lg pb-5 font-medium">Steam Database</h2>
-                <div className="flex justify-between text-[13px] font-light leading-6">
+                <div className="flex justify-between text-[13px] font-medium leading-6">
                     <div>
                         <p>Farm Ready</p>
                         <p>500</p>

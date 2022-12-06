@@ -4,8 +4,8 @@ export default function Items({items}){
 
             {items.map((item) => {
                 return (
-                    <div key={item.name} className="flex justify-between py-1">
-                        <p className="text-[#6096FF] font-medium">{item.name}</p>
+                    <div key={item.name} className="flex justify-between py-1 font-medium">
+                        <p className="text-[#6096FF]">{item.name}</p>
                         <div className="flex justify-between w-[30%]">
                             <p>{item.percent}</p>
                             <p>{item.count}</p>
