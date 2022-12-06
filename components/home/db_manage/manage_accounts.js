@@ -19,7 +19,7 @@ export default function AccountsManage(){
                             <p>50</p>
                         </div>
                     </div>
-                    <div>
+                    <div className="mb-2">
                         <div className="mb-5">
                             <p className="mb-1">Accounts</p>
                             <div className="w-full flex justify-between">
@@ -50,7 +50,7 @@ export default function AccountsManage(){
                             <p>50</p>
                         </div>
                     </div>
-                    <div>
+                    <div className="mb-2">
                         <div className="mb-5">
                             <p className="mb-1">Accounts</p>
                             <div className="w-full flex justify-between">

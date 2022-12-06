@@ -20,7 +20,7 @@ const Modal = ({isVisible, onClose}) => {
                             <Tab className="ui-selected:opacity-100 ui-not-selected:opacity-30 mr-[10px]">Servers</Tab>
                             <Tab className="ui-selected:opacity-100 ui-not-selected:opacity-30 mr-[10px]">Settings</Tab>
                             <a className="opacity-30 mr-[10px]"
-                               href="https://google.com">Withdraw</a>
+                               href="https://google.com" target="_blank">Withdraw</a>
                         </Tab.List>
                     </div>
                     <button className="font-extrabold text-xl place-self-end absolute"  onClick={() => onClose()}>

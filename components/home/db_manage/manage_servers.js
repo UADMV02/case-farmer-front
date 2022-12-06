@@ -6,9 +6,9 @@ export default function ServersManage(){
                           placeholder="IP:Port:Password:SSH:Password"
                 ></textarea>
             </div>
-            <div>
+            <div className="mb-2">
                 <p className="mb-1">Actions</p>
-                <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]c">Apply</button>
+                <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]">Apply</button>
             </div>
         </div>
     )
