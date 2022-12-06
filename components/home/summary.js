@@ -242,7 +242,7 @@ export default function Summary(){
                         <button className="px-[10px] leading-[20px] bg-white rounded border border-[#EBEBEB] hover:opacity-75">&#62;</button>
                     </div>
                 </div>
-                <div className="flex mb-8 justify-between text-[13px] font-extralight mx-5 leading-6">
+                <div className="flex mb-8 justify-between text-[13px] font-medium mx-5 leading-6">
                     <div>
                         <p>Total Items</p>
                         <p>{monthSummary.totalItems}</p>
@@ -261,8 +261,8 @@ export default function Summary(){
                     </div>
                 </div>
             </div>
-            <div className="px-7 py-[15px] bg-white text-[13px] overflow-scroll rounded-b-md mt-auto border-t border-[#EBEBEB]">
-                <div className="flex justify-between py-1 font-light">
+            <div className="px-7 py-[15px] bg-white text-[13px] overflow-y-scroll rounded-b-md mt-auto border-t border-[#EBEBEB]">
+                <div className="flex justify-between py-1 font-medium">
                     <div>Item name</div>
                     <div className="flex justify-between w-[30%]">
                         <div>%</div>
