@@ -18,11 +18,11 @@ export default function ControlPanel(){
                     </div>
                 </div>
             </div>
-            <div className="">
-                <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:opacity-75 mb-2 text-sm font-light">
+            <div className="font-medium">
+                <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:bg-[#f0f1f2] mb-2 text-sm">
                     Stop
                 </button>
-                <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:opacity-75 text-sm font-light">
+                <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:bg-[#f0f1f2] text-sm">
                     Restart
                 </button>
             </div>

@@ -229,17 +229,17 @@ export default function Summary(){
             <div className="px-7 pt-7 h-40">
                 <div className="flex mb-8 justify-between items-center">
 
-                    <div className="flex">
-                        <h2 className="text-lg font-medium mr-[10px]">{getMonthName(monthSummary.month)} {monthSummary.year}</h2>
-                        <p className="text-lg font-light">
+                    <div className="flex font-medium">
+                        <h2 className="text-lg mr-[10px]">{getMonthName(monthSummary.month)} {monthSummary.year}</h2>
+                        <p className="text-lg">
                             <Clock
                                 format={'h:mm:ss A'}
                                 ticking={true} />
                         </p>
                     </div>
                     <div>
-                        <button className="px-[10px] leading-[20px] bg-white rounded border border-[#EBEBEB] hover:opacity-75">&#60;</button>
-                        <button className="px-[10px] leading-[20px] bg-white rounded border border-[#EBEBEB] hover:opacity-75">&#62;</button>
+                        <button className="px-[10px] leading-[20px] bg-white rounded border border-[#EBEBEB] hover:bg-[#f0f1f2]">&#60;</button>
+                        <button className="px-[10px] leading-[20px] bg-white rounded border border-[#EBEBEB] hover:bg-[#f0f1f2]">&#62;</button>
                     </div>
                 </div>
                 <div className="flex mb-8 justify-between text-[13px] font-medium mx-5 leading-6">

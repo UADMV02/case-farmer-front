@@ -18,7 +18,7 @@ export default function SteamDB({onShow}) {
                     </div>
                 </div>
             </div>
-            <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:opacity-75 text-sm font-light"
+            <button className="w-full py-[8px] bg-white rounded-md border border-[#EBEBEB] hover:bg-[#f0f1f2] text-sm font-medium"
                     type="button"
                     data-modal-toggle="defaultModal"
                     onClick={() => onShow()}

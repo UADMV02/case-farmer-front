@@ -23,15 +23,15 @@ export default function AccountsManage(){
                         <div className="mb-5">
                             <p className="mb-1">Accounts</p>
                             <div className="w-full flex justify-between">
-                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md">Choose Accounts.txt</button>
-                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md">Choose maFiles.zip</button>
+                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md hover:bg-[#e0e0e0]">Choose Accounts.txt</button>
+                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md hover:bg-[#e0e0e0]">Choose maFiles.zip</button>
                             </div>
                         </div>
                         <div>
                             <p className="mb-1">Actions</p>
-                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Add Accounts</button>
-                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Remove Accounts</button>
-                            <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md">Download All Accounts.zip</button>
+                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Add Accounts</button>
+                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Remove Accounts</button>
+                            <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]">Download All Accounts.zip</button>
                         </div>
                     </div>
                 </Tab.Panel>
@@ -54,15 +54,15 @@ export default function AccountsManage(){
                         <div className="mb-5">
                             <p className="mb-1">Accounts</p>
                             <div className="w-full flex justify-between">
-                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md">Choose Accounts.txt</button>
-                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md">Choose maFiles.zip</button>
+                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md hover:bg-[#e0e0e0]">Choose Accounts.txt</button>
+                                <button className="w-[49%] bg-white h-9 border border-[#EBEBEB] rounded-md hover:bg-[#e0e0e0]">Choose maFiles.zip</button>
                             </div>
                         </div>
                         <div>
                             <p className="mb-1">Actions</p>
-                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Add Accounts</button>
-                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2">Remove Accounts</button>
-                            <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md">Download All Accounts.zip</button>
+                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Add Accounts</button>
+                            <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Remove Accounts</button>
+                            <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]">Download All Accounts.zip</button>
                         </div>
                     </div>
                 </Tab.Panel>
