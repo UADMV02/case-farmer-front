@@ -4,9 +4,23 @@
 
 @layer base {
     body {
-        @apply bg-[#F2F2F2] p-8 h-screen;
+        @apply bg-[#F2F2F2] pt-4 pb-16 h-screen;
     }
     #__next {
         @apply h-full;
+    }
+    .card {
+        @apply bg-white bg-opacity-60 rounded-md border-[#EBEBEB] border;
+    }
+    .prime-button{
+        @apply w-full h-9 bg-[#2E9BFF] rounded-md text-white border border-[#EBEBEB] hover:bg-[#278be8] text-sm font-medium;
+
+    }
+    .secondary-button{
+        @apply w-full h-9 bg-white rounded-md text-black border border-[#EBEBEB] hover:bg-[#f0f1f2] text-sm font-medium;
+
+    }
+    th {
+        @apply text-left pb-2;
     }
 }

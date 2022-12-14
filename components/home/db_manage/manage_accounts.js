@@ -11,8 +11,16 @@ export default function AccountsManage(){
                 <Tab.Panel className="h-full flex flex-col justify-between">
                     <div className="flex justify-center leading-6 mt-5">
                         <div className="mr-6">
-                            <p>Total Accounts</p>
-                            <p>500</p>
+                            <p>Accounts</p>
+                            <p>1000</p>
+                        </div>
+                        <div className="mr-6">
+                            <p>Farm Ready</p>
+                            <p>850/1000</p>
+                        </div>
+                        <div className="mr-6">
+                            <p>Farming</p>
+                            <p>850/1000</p>
                         </div>
                         <div>
                             <p>Removed</p>
@@ -38,16 +46,16 @@ export default function AccountsManage(){
                 <Tab.Panel className="h-full flex flex-col justify-between font-medium">
                     <div className="flex justify-center leading-6 mt-5">
                         <div className="mr-6">
-                            <p>Total Accounts</p>
-                            <p>500</p>
+                            <p>Accounts</p>
+                            <p>10</p>
                         </div>
                         <div className="mr-6">
-                            <p>Fresh</p>
-                            <p>500</p>
+                            <p>Completed</p>
+                            <p>1/10</p>
                         </div>
                         <div>
-                            <p>Completed</p>
-                            <p>50</p>
+                            <p>Total Value</p>
+                            <p>4430$</p>
                         </div>
                     </div>
                     <div className="mb-2">
@@ -62,7 +70,7 @@ export default function AccountsManage(){
                             <p className="mb-1">Actions</p>
                             <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Add Accounts</button>
                             <button className="w-full bg-white h-9 border border-[#EBEBEB] rounded-md mb-2 hover:bg-[#e0e0e0]">Remove Accounts</button>
-                            <button className="w-full bg-[#2E9BFF] text-white h-9 rounded-md hover:bg-[#278be8]">Download All Accounts.zip</button>
+                            <button className="prime-button">Download All Accounts.zip</button>
                         </div>
                     </div>
                 </Tab.Panel>

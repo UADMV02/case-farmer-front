@@ -183,7 +183,7 @@ export default function Summary(){
     }
 
     return (
-        <div className="lg:w-full h-full bg-white bg-opacity-60 rounded-md border-[#EBEBEB] border flex flex-col">
+        <div className="card lg:w-full h-full flex flex-col">
             <div className="px-7 pt-7 h-40">
                 <div className="flex mb-8 justify-between items-center">
 
